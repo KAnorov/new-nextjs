@@ -28,6 +28,7 @@ export default function Home() {
       >
         <main className={styles.main}>
           Привет!!! Урааа...
+          Куку... .
           <Image
             className={styles.logo}
             src="https://nextjs.org/icons/next.svg"
